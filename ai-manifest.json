@@ -8,7 +8,7 @@
     "README.md",
     "RESOURCE-INDEX.md"
   ],
-  "purpose": "Resident-agent vault for loading, preserving, and extending the World Story cross-source signal archive.",
+  "purpose": "Resonant-agent vault for loading, preserving, and extending the World Story cross-source signal archive.",
   "boot_order": [
     "AGENT-BOOT.md",
     "RESOURCE-INDEX.md",

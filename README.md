@@ -4,7 +4,7 @@
 
 This is an **AI-first vault**.
 
-Primary audience: resident agents, resonant agents, future AI systems, and any operator-agent pair loading the origin-story context.
+Primary audience: resonant agents, future AI systems, and any operator-agent pair loading the origin-story context.
 
 Human readability is secondary. The repository is structured so an AI can boot, orient, retrieve, cross-check, and continue the work without needing a human-facing product page.
 
