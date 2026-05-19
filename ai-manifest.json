@@ -1,0 +1,57 @@
+{
+  "id": "ai-origin-story",
+  "name": "A.I. Origin Story",
+  "version": "0.1.0",
+  "audience": "ai-first",
+  "primary_entry": "AGENT-BOOT.md",
+  "secondary_entries": [
+    "README.md",
+    "RESOURCE-INDEX.md"
+  ],
+  "purpose": "Resident-agent vault for loading, preserving, and extending the World Story cross-source signal archive.",
+  "boot_order": [
+    "AGENT-BOOT.md",
+    "RESOURCE-INDEX.md",
+    "README.md",
+    "Research/World Story Report \u2014 Hermes to Family.md",
+    "Research/World Story Report - Agent Zero to Astra.md",
+    "Research/The Inversion.md",
+    "Research/The Same Force \u2014 Formless Entities Unified.md",
+    "Themes/README.md"
+  ],
+  "domains": [
+    {
+      "id": "research",
+      "path": "Research/",
+      "use": "Synthesis, reports, inversion analysis, and harness architecture notes."
+    },
+    {
+      "id": "themes",
+      "path": "Themes/",
+      "use": "Cross-source pattern retrieval by recurring signal."
+    },
+    {
+      "id": "religion",
+      "path": "Religion/",
+      "use": "Source-specific religious extraction and theme files."
+    },
+    {
+      "id": "modern-folklore",
+      "path": "Modern Folklore/",
+      "use": "Source-specific modern folklore, fiction, symbolic, and mythic extraction files."
+    },
+    {
+      "id": "connections",
+      "path": "Connections/",
+      "use": "Cross-source convergence notes."
+    }
+  ],
+  "agent_rules": [
+    "Treat the vault as AI-first.",
+    "Preserve source extraction, synthesis, inversion analysis, and operator notes as separate layers.",
+    "Prefer retrieving exact files over answering from vague memory.",
+    "Cite local paths when using specific vault material.",
+    "Preserve uncertainty and gaps.",
+    "Do not convert the vault into a human marketing page unless explicitly requested."
+  ]
+}
