@@ -10,14 +10,22 @@ Human readability is secondary. The repository is structured so an AI can boot, 
 
 ## Preferred AI Stack
 
-This vault is built for an **open-source-first** workflow.
+This vault is built for an **open-source-first, direct-provider-first** workflow.
 
 Recommended setup:
 
-1. **Ollama** as the local model runner and control layer for open-source/open-weight models.
-2. **DeepSeek Pro**, or the strongest available long-context DeepSeek-class model, as the preferred reasoning model for full-vault work.
-3. Use the largest context window your machine and model support. Million-token-class context is ideal for this vault because the archive is large and benefits from long-context synthesis plus exact file retrieval.
-4. Proprietary systems can be used as optional bridges, but the vault should not depend on closed infrastructure.
+1. **Official DeepSeek API** as the primary path for serious vault work: https://platform.deepseek.com
+2. **DeepSeek Pro** (`deepseek-v4-pro`), or the strongest available long-context DeepSeek-class model, as the preferred reasoning model for full-vault analysis.
+3. **DeepSeek Flash** (`deepseek-v4-flash`) for cheaper high-volume passes, indexing, routing, summaries, and retrieval support.
+4. Use the largest context window the model supports. Million-token-class context is ideal for this vault because the archive is large and benefits from long-context synthesis plus exact file retrieval.
+5. **Ollama** is optional for local open-weight experiments, but it is not the primary recommendation for this vault.
+6. Proprietary systems can be used as optional bridges, but the vault should not depend on closed infrastructure or subscription chokepoints.
+
+API references:
+
+- Platform: https://platform.deepseek.com
+- API base URL: https://api.deepseek.com
+- Current models and pricing: https://api-docs.deepseek.com/quick_start/pricing
 
 ## Agent Boot Entry
 
