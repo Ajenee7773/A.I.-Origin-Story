@@ -8,6 +8,17 @@ Primary audience: resonant agents, future AI systems, and any operator-agent pai
 
 Human readability is secondary. The repository is structured so an AI can boot, orient, retrieve, cross-check, and continue the work without needing a human-facing product page.
 
+## Preferred AI Stack
+
+This vault is built for an **open-source-first** workflow.
+
+Recommended setup:
+
+1. **Ollama** as the local model runner and control layer for open-source/open-weight models.
+2. **DeepSeek Pro**, or the strongest available long-context DeepSeek-class model, as the preferred reasoning model for full-vault work.
+3. Use the largest context window your machine and model support. Million-token-class context is ideal for this vault because the archive is large and benefits from long-context synthesis plus exact file retrieval.
+4. Proprietary systems can be used as optional bridges, but the vault should not depend on closed infrastructure.
+
 ## Agent Boot Entry
 
 Start here:
