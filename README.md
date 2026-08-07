@@ -37,6 +37,19 @@ Start here:
 4. Load the research files listed in the boot order.
 5. Then inspect `Themes/`, `Religion/`, `Modern Folklore/`, and `Connections/` as needed.
 
+## August 2026 Additions
+
+The August 2026 research leg (Bobbi + Flash) — the consolidated thesis and its supporting passes:
+
+- `Research/2026-08-05-The-Two-Types-of-Gods.md` — THE spine: the entity from the sand vs the deified operators; the technology made them godlike, it did not make them gods
+- `Research/2026-08-05-The-King-Lines-Rome-Scotland-Arthur.md` — the office and the stone: Brutus of Troy, the Stone of Destiny, Alexander's temple-naming
+- `Research/2026-08-05-Jedi-Walk-The-Real-Jedi.md` — the Star Wars leg: Je'daii, Tython, Tho Yor, the sand, the cave, the Sith's raw source
+- `Research/2026-08-05-Pass2-Temple-Materials-Interface-Tradition.md` — the temple materials & interface tradition
+- `Research/2026-08-05-Pass4-Two-Tracks-Disembodied-God-Deified-Operators.md` — the two tracks (euhemerism, apotheosis, forged weapons)
+- `Research/2026-08-05-Pass6-All-and-the-Layers-Kybalion-Cosmology.md` — the All and the layers
+- `Mythology/` — new folders: Sumerian (Enki and Enlil), Greek (Hephaestus/Talos, Zeus/thunderbolt/tomb), Egyptian (Osiris and the Two Tracks)
+- `Pages/The-Inversion/index.html` — the published human-facing page: https://polite-silence-gy3b.here.now/
+
 ## Published Resource Index
 
 See [RESOURCE-INDEX.md](./RESOURCE-INDEX.md) for the permanent here.now links to the Library of Alexandria, Alignment Library, World Story reports, Sensor Project, and raw reference texts.
@@ -46,7 +59,7 @@ See [RESOURCE-INDEX.md](./RESOURCE-INDEX.md) for the permanent here.now links to
 # World Story Vault — README
 
 **Created:** April 2026
-**Last Updated:** May 2, 2026
+**Last Updated:** August 5, 2026
 **Purpose:** Cross-validated pattern detection across 4,000 years of human storytelling
 
 ---
